@@ -1,4 +1,3 @@
-## 23VT-4ME307 Internet Architectures
 
 ### Development (Staging) Environments:
 ```
@@ -35,12 +34,6 @@ With a sleek and intuitive interface, Note Nirvana makes it easy to create, edit
 - **Search and Filter:** Easily find notes by searching for keywords or filtering by tags, folders, or dates.
 - **Collaborate:** Share notes with colleagues or friends for seamless collaboration on projects and ideas.
 - **Customize Your Experience:** Choose from a range of customizable themes and layouts to make Note Nirvana your own.
-
-## Group Members: (Group - 6)
-1. Prasannjeet Singh
-2. Dennis Demir
-3. Sudeesh Sukumara Pillai
-4. Gauthem Krishna
 
 ### Steps to run the application.
 **Enusre that `docker` is installed in your computer.**
